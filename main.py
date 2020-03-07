@@ -12,7 +12,8 @@ def perkalian(a,b):
 
 def pembagian(a,b):
 	#isi fungsi pembagian diletakkan di variable total
-	return total
+	total = a / b 
+        return total
 
 def main():
 	print penjumlahan(5,5)
